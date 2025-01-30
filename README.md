@@ -37,3 +37,10 @@ caddy run --config "C:\Program Files\Caddy\Caddyfile"
 ```
 5. Com seu DNS configure o alias apontando para o ip da sua vps. Ex.: seusite.com.br A 40.50.60.70
 
+---
+
+### **3. Parabéns **
+- Se chegou até aqui, Parabéns!!
+- Redirecionamento de http para https e proxy reverso sem porta realizados magicamente com sucesso!
+
+---
