@@ -23,7 +23,7 @@ Possui caracteristicas avançadas, como:
 
 ---
 
-### **2. Configuração Básica** 🛠️
+### **2. Configuração Básica** ⚙️
 1. Crie um arquivo de nome Caddyfile na mesma pasta do passo 2. Ex.: C:\Program Files\Caddy\Caddyfile
 2. O nome do arquivo anterior precisa ser Caddyfile com a letra C em maiúscula e sem extensão.
 3. Dentro desse arquivo Caddyfile coloque apenas isso, mudando apenas o nome do site:
@@ -41,7 +41,7 @@ caddy run --config "C:\Program Files\Caddy\Caddyfile"
 
 ---
 
-### **3. Parabéns**
+### **3. Parabéns** 👏👏👏👏
 - Se chegou até aqui, Parabéns!!
 - Redirecionamento de http para https e proxy reverso sem porta realizados magicamente com sucesso!
 
