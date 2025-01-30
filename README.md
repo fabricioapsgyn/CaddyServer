@@ -21,6 +21,8 @@ Possui caracteristicas avançadas, como:
 5. Abra o cmd ou promt de sua preferência como administrador e execute o seguinte comando: caddy --version
 6. Se retornar a versao do caddyserver entao podemos passar para o proximo passo. 
 
+---
+
 ### **2. Configuração Básica** 🛠️
 1. Crie um arquivo de nome Caddyfile na mesma pasta do passo 2. Ex.: C:\Program Files\Caddy\Caddyfile
 2. O nome do arquivo anterior precisa ser Caddyfile com a letra C em maiúscula e sem extensão.
